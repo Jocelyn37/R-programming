@@ -1,1 +1,1 @@
-Analysis of process model attributes
+Analysis of structural attributes of process model
